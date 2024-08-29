@@ -34,8 +34,6 @@ function Today({ weather }: TodayProps) {
 
   const weatherNext24 = [...weatherToday, ...weatherTomorrow];
 
-  console.log(weather.forecast.forecastday[0].hour[14]);
-
   return (
     <View className="mb-2 space-y-3">
       <View className="flex-row items-center mx-5 space-x-2">
