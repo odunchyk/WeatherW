@@ -1,8 +1,8 @@
 # WeatherW
 
-## Demo
+## Expo Demo
 
-[Demo link](https://expo.dev/preview/update?message=Demo%20version%200.1&updateRuntimeVersion=1.0.0&createdAt=2024-08-30T08%3A16%3A11.333Z&slug=exp&projectId=114e98d2-deca-43d2-94a3-55ab190d323e&group=abb0eea3-28ac-4fb5-b340-fea763fa237a)
+[Expo Demo link](https://expo.dev/preview/update?message=Demo%20version%200.1&updateRuntimeVersion=1.0.0&createdAt=2024-08-30T08%3A16%3A11.333Z&slug=exp&projectId=114e98d2-deca-43d2-94a3-55ab190d323e&group=abb0eea3-28ac-4fb5-b340-fea763fa237a)
 
 To run demo on your mobile device install Expo mobile for [Android](https://play.google.com/store/apps/details?id=host.exp.exponent) or [IOS](https://apps.apple.com/ua/app/expo-go/id982107779?l) and scan QR code from demo link
 ## Overview
