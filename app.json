@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "weather_app",
-    "slug": "weather_app",
+    "name": "weatherW",
+    "slug": "weather-w",
+    "description": "Mobile app that displays the current weather and forecast for the selected location",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/weatherW_icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/weatherW_icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -22,6 +23,17 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "114e98d2-deca-43d2-94a3-55ab190d323e"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/114e98d2-deca-43d2-94a3-55ab190d323e"
     }
   }
 }
