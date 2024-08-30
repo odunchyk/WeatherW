@@ -27,13 +27,13 @@ A React Native weather application that provides weather forecasts based on [Wea
 - **Description**: Provides a 7-day weather forecast, giving users an overview of expected weather patterns for an entire week. This includes daily summaries with temperature ranges, weather conditions, and any notable weather changes.
 - **Implementation**: Uses a weather API to fetch the weekly forecast and displays it in a list or calendar format, allowing users to scroll through the upcoming week's weather predictions easily.
 
-![HomeScreen](./assets/HomeScreen.webm)
+![HomeScreen](https://github.com/user-attachments/assets/350f0f08-b4af-4480-9756-329da96c9f4d)
 
 ### **Settings**
 - **Description**: Allows users to customize their experience by adjusting settings such as temperature units (Celsius/Fahrenheit), wind speed units (km/h, mph), and time formats. Users can also configure other preferences related to weather notifications and app behavior.
 - **Implementation**: Provides a settings screen where users can toggle options and save their preferences. The settings are applied throughout the app, ensuring a consistent user experience based on their choices.
 
-![Settings](./assets/HomeScreen.webm)
+![SettingsScreen](https://github.com/user-attachments/assets/aa7c7e58-df3a-4a9c-95a1-669cfebb8803)
 
 ### **Async Storage**
 - **Description**: Saves user data between logins, allowing for a seamless experience across app sessions. This includes storing user preferences, search history, settings and other relevant data.
